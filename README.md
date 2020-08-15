@@ -1,15 +1,82 @@
 #### Hi there! :wave:
 
 
-<div id="header" style="background-color: #F7F8FA;display:grid;   grid-template-columns: repeat(2,1fr)">
-<div>
-    <h1>DANILO LIMA</h1>
-    <p>Front-end Developer</p>
-</div>
-<img  id="imagheader" src="https://media-exp1.licdn.com/dms/image/C4E22AQFQQoUEs9ZnNg/feedshare-shrink_800/0?e=1600300800&v=beta&t=NQCoBZN2-dsAZ8JYOJtDIsUUHEpwNqW_QYXXR6AIZzg">
-</div>
+<style>
+/* #header{
+    background-color: #F7F8FA;
+    width:633px;
+    height:300px;
+    display:grid;
+    grid-template-columns: repeat(2,1fr)
+}
 
-<p id="textintroducing">"Hi there, I'm Danilo Lima, I'm from Brazil. Welcome to my Github profile, I'm a Computer Science student degree, A lover an also a student of this Software Delelopment World, focused in Front-end Development."
+#header img{
+    width: 300px;
+    transform: rotatey(180deg);
+    animation: animaimg 1s ease-in-out forwards;
+    animation-delay: 1s;
+    opacity: 0;
+}
+
+#header div{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    padding: 0 50px;
+    background-color: #eee;
+    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+    font-family:sans-serif;
+}
+
+
+#header div h1{
+
+     color: #2B7DE9;
+     animation: animatext 1s ease-in-out forwards;
+     opacity: 0;
+
+}
+
+#header div p{
+
+    margin-top: -20px;
+    color: #777;
+       animation: animatextsub .5s ease-in-out forwards;
+       animation-delay: 2s;
+       opacity: 0; 
+
+}
+
+#textintroducing{
+    margin: 20px 0;
+    font-family: sans-serif;
+    color: #777;
+}
+
+
+@keyframes animatext{
+    0%{transform: translatey(10px);opacity: 0}
+    100%{transform: translatey(0);opacity: 1}
+}
+
+@keyframes animatextsub{
+    0%{transform: translatex(20px);opacity: 0}
+    100%{transform: translatex(0);opacity: 1}
+}
+
+
+@keyframes animaimg{
+    0%{transform: rotatey(180deg);opacity: 0}
+    100%{transform: rotatey(180deg);opacity: 1;}
+}
+ */
+
+
+
+</style>
+
+<img  id="imagheader" src="background.png">
+<p>"Hi there, I'm Danilo Lima, I'm from Brazil. Welcome to my Github profile, I'm a Computer Science student degree, A lover an also a student of this Software Delelopment World, focused in Front-end Development."
 </p>
 
 ### I'm a Computer Science student, Front-end Developer and poems lover!

@@ -73,7 +73,7 @@
 
 </style>
 
-<div id="header">
+<div id="header" display="grid">
 <div>
     <h1>DANILO LIMA</h1>
     <p>Front-end Developer</p>

@@ -2,7 +2,7 @@
 
 
 <style>
-#header{
+/* #header{
     background-color: #F7F8FA;
     display:grid;
     grid-template-columns: repeat(2,1fr)
@@ -69,11 +69,11 @@
 }
 
 
-
+ */
 
 </style>
 
-<div id="header" display="grid">
+<div id="header" style="background-color: #F7F8FA;display:grid;   grid-template-columns: repeat(2,1fr)">
 <div>
     <h1>DANILO LIMA</h1>
     <p>Front-end Developer</p>

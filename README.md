@@ -1,7 +1,6 @@
 #### Hi there! :wave:
 
-
-<img  id="imagheader" src="https://github.com/DaniloLima122/DaniloLima122/blob/master/banner.png">
+<img  id="imagheader" src="https://github.com/DaniloLima122/DaniloLima122/blob/master/bannerWeb.png">
 <p>"Hi there, I'm Danilo Lima, I'm from Brazil. Welcome to my Github profile, I'm a Computer Science student degree, A lover an also a student of this Software Development World, focused in Front-end Development."
 </p>
 
@@ -9,10 +8,9 @@
 
 - :mortar_board: I'm currently at first year of Computer Science degree
 - :computer: I'm currently learning everything I can about Front-end Development step by step! :laughing:
-- :open_hands: I'm looking to collaborate with community with 
-articles and projects
+- :open_hands: I'm looking to collaborate with community with
+  articles and projects
 - :zap: Fun fact: I've already been write nearly 60 poems and keep writing! :joy:
-
 
 ### Find me at:
 
@@ -23,13 +21,11 @@ articles and projects
 	<img src="https://camo.githubusercontent.com/20b7a157916442df230fade0413393517ad1c290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f267374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width:100%;">
 </a>
 
-
 <a href="https://medium.com/@limadanilo06" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/5b133451a151a26231268741caa939ddd33d1e24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d626c61636b3f267374796c653d666c61742d737175617265266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="medium" data-canonical-src="https://img.shields.io/badge/medium-black?&amp;style=flat-square&amp;logo=medium&amp;logoColor=white" style="max-width:100%;">
 </a>
 
 <br />
-
 
 ### Languages and Tools:
 

@@ -4,7 +4,7 @@
 <p>"Hi there, I'm Danilo Lima, I'm from Brazil. Welcome to my Github profile, I'm a Computer Science student degree, A lover an also a student of this Software Development World, focused in Front-end Development."
 </p>
 
-### I'm a Computer Science student, Front-end Developer and poems lover!
+### I'm a Computer Science student, Web Developer and poems lover!
 
 - :mortar_board: I'm currently at first year of Computer Science degree
 - :computer: I'm currently learning everything I can about Front-end Development step by step! :laughing:

@@ -7,7 +7,7 @@
 ### I'm a Computer Science student, Web Developer and poems lover!
 
 - :mortar_board: I'm currently at first year of Computer Science degree
-- :computer: I'm currently learning everything I can about Front-end Development step by step! :laughing:
+- :computer: I'm currently learning everything I can about Web Development step by step! :laughing:
 - :open_hands: I'm looking to collaborate with community with
   articles and projects
 - :zap: Fun fact: I've already been write nearly 60 poems and keep writing! :joy:

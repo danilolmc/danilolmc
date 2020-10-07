@@ -1,7 +1,7 @@
 #### Hi there! :wave:
 
 <img  id="imagheader" src="https://github.com/DaniloLima122/DaniloLima122/blob/master/bannerWeb.png">
-<p>"Hi there, I'm Danilo Lima, I'm from Brazil. Welcome to my Github profile, I'm a Computer Science student degree, A lover an also a student of this Software Development World, focused in Front-end Development."
+<p>"Hi there, I'm Danilo Lima, I'm from Brazil. Welcome to my Github profile, I'm a Computer Science student degree, A lover an also a student of this Software Development World, focused in Web Development."
 </p>
 
 ### I'm a Computer Science student, Web Developer and poems lover!

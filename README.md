@@ -22,9 +22,9 @@
 	<img src="https://camo.githubusercontent.com/5b133451a151a26231268741caa939ddd33d1e24/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d626c61636b3f267374796c653d666c61742d737175617265266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="Medium" data-canonical-src="https://img.shields.io/badge/medium-black?&amp;style=flat-square&amp;logo=medium&amp;logoColor=white" style="max-width:100%;">
 </a>
 
-<a href="https://danlima.vercel.app/">
+<!-- <a href="https://danlima.vercel.app/">
 	<img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome&logoColor=white">
-</a>
+</a> -->
 <br />
 
 ### Languages and Tools:

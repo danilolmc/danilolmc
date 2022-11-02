@@ -6,7 +6,7 @@
 
 ### I'm a Computer Science student, Front-end Developer and poems lover!
 
-- :mortar_board: I'm currently at second year of Computer Science degree
+- :mortar_board: I'm currently at last year of my Computer Science degree
 - :computer: I'm currently learning everything I can about Web Development step by step! :laughing:
 - :open_hands: I'm looking to collaborate with community with
   articles and projects

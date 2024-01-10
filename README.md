@@ -9,7 +9,7 @@
 - Someone who loves discussing about software architecture and the best practices of software development;
 - With passion for learning;
 - I also contribute to Open Source projects;
-- And I like to share knowledge about development on my personal blog;
+- And I like to share knowledge about development on my personal blog.
 
 **Here is some of the tools I have experience in**: 
 

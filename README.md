@@ -1,4 +1,6 @@
-#### Hey there! :wave:
+### Hey there! :wave:
+
+<hr>
 
 ### I'm Danilo, a Software developer
 
@@ -9,17 +11,17 @@
 - I also contribute to Open Source projects;
 - And I like to share knowledge about development on my personal blog;
 
-Here is some of the tools I have experience in: 
+**Here is some of the tools I have experience in**: 
 
 - Angular
 - Typescript
 - NodeJS
+- Express
 - Webpack
 - Cypress
 - Docker
 - AWS
-- CI/CD
-- Scrum
+- CI/CD...
 
 To be a great software developer is always a work in progress. Keep pushing!
 

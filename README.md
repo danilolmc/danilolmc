@@ -14,6 +14,7 @@
 **Here is some of the tools I have experience in**: 
 
 - Angular
+- ReactJS
 - Typescript
 - NodeJS
 - Express
@@ -21,7 +22,15 @@
 - Cypress
 - Docker
 - AWS
-- CI/CD...
+- Nx
+- NgRx
+- NestJS
+- Clean Architecture
+- Design Patterns...
+
+**I am currently studying**: 
+
+- Golang
 
 #### **You can also find me at:**
 

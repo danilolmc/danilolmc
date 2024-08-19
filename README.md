@@ -28,10 +28,6 @@
 - Clean Architecture
 - Design Patterns...
 
-**I am currently studying**: 
-
-- Golang
-
 #### **You can also find me at:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilolma/)

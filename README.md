@@ -5,7 +5,7 @@
 ### I'm Danilo, a Software developer
 
 - Engaged in software development since I was 15;
-- With 3+ years of experience in projects reaching thousands of users in Latin America;
+- With 4+ years of experience in projects reaching thousands of users in Latin America;
 - Someone who loves discussing about software architecture and the best practices of software development;
 - With passion for learning;
 - I also contribute to Open Source projects;
